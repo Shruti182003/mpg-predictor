@@ -18,6 +18,9 @@ See `requirements.txt` for all dependencies.
 ## Deployment
 The app is deployed using [Streamlit Cloud](https://streamlit.io/cloud).
 
+### 🌐 Live Demo
+[Click here to try the app 🚀](https://mpg-predictor-hsn9aa9g2ofvrcuumhvf8a.streamlit.app/)
+
 ## Project Structure
 mpg-predictor/
 │
